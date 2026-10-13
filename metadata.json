@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp AI Bot",
+  "description": "WhatsApp AI automation bot for business stock management and order processing via N8N, Gemini AI, and live database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
